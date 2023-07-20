@@ -14,13 +14,13 @@ Trong thực tế hiện nay, với sự phát triển của công nghệ thông
 ## 2. Mô hình đề xuất
 ### 2.2. Quá trình truy xuất ảnh
 
-![image](https://github.com/DuyTam01/cbir_cnn_and_hash/assets/92566983/8ef1857e-5788-46e9-9117-2b0050ee5524)
 
+<img src="https://github.com/DuyTam01/cbir_cnn_and_hash/assets/92566983/8ef1857e-5788-46e9-9117-2b0050ee5524" alt="image" width="300" height="auto"/>
 
 ### 2.1. Kiến trúc mô hình đề xuất
 Trong đề xuất của nhóm, hệ thống sử dụng phương pháp học sâu CNN để thực hiện phân loại và truy xuất hình ảnh. Mô hình kiến trúc được mô tả:
 
-![image](https://github.com/DuyTam01/cbir_cnn_and_hash/assets/92566983/1c49e3ca-cfc7-4721-95a4-f67c356af4cf)
+<img src="https://github.com/DuyTam01/cbir_cnn_and_hash/assets/92566983/1c49e3ca-cfc7-4721-95a4-f67c356af4cf" alt="image" width="600" height="auto"/>
 
 ## 3. Thực nghiệm
 Trong quá trình thực nghiệm, nhóm đã tiến hành huấn luyện và kiểm tra mô hình đề xuất trên các tập dữ liệu phù hợp. Kết quả và các chi tiết thực nghiệm được trình bày trong phần này ở poster.
