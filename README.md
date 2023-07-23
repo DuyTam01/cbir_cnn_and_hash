@@ -1,4 +1,3 @@
-# cbir_cnn_and_hash
 # Hệ thống Truy xuất Hình ảnh bằng Nội dung dựa trên CNN và Hash
 
 ## Mục lục
